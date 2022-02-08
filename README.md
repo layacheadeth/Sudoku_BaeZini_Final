@@ -20,11 +20,13 @@ To install all packages
 ## 2
 
 **run the GUI.py file to see GUI.**
+
 **run python3 GUI.py**
 
 ## 3
 
 **Run working.py to see demonstration on console.**
+
 **run python3 working.py**
 
 ## 4
