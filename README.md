@@ -1,4 +1,4 @@
-#Sudoku Generator and solver game 
+# Sudoku Generator and solver game 
 Sudoku is a logic-based, combinational number-placement puzzle. 
 The objective is to fill a 9 and 9 grid with digits so that each column, each 
 row, and each of the nine 3 and 3 subgrids that compose the grid contain all of
@@ -11,23 +11,23 @@ automate the game solution recursively using backtracking algorithm.
 
 How to use the application:
 
-##1
+## 1
 
 **Run pip3 install -r requirements.txt**
 
 To install all packages
 
-##2
+## 2
 
 **run the GUI.py file to see GUI.**
 **run python3 GUI.py**
 
-##3
+## 3
 
 **Run working.py to see demonstration on console.**
 **run python3 working.py**
 
-##4
+## 4
 
 **References**
 
